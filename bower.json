@@ -2,6 +2,7 @@
   "name": "eruda",
   "description": "Console for Mobile Browsers",
   "main": "eruda.js",
+  "version": "1.2.0",
   "authors": [
     "redhoodsuc",
     "fuchao2012"
