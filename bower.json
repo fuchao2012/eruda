@@ -3,6 +3,7 @@
   "description": "Console for Mobile Browsers",
   "main": "eruda.js",
   "authors": [
+    "redhoodsuc",
     "fuchao2012"
   ],
   "license": "MIT",
